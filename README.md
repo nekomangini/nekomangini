@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from Philippines</h3>
-
 - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
 - 📝 I regularly write articles on [nekomangini.netlify.app](nekomangini.netlify.app)
