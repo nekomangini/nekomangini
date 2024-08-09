@@ -1,4 +1,4 @@
-<!-- - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim) -->
+- 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
 - 📝 I regularly write articles on [nekomangini.netlify.app](nekomangini.netlify.app)
 
