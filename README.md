@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact **I like cats**
 
-[nekomangini.netlify.app](nekomangini.netlify.app) | [nekomangini.github.io](nekomangini.github.io)
+[nekomangini.netlify.app](https://nekomangini.netlify.app/) | [nekomangini.github.io](https://nekomangini.github.io/)
 
 
 ## 🌐 Connect with me::
