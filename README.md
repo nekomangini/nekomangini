@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
-[nekomangini.netlify.app](nekomangini.netlify.app) | [nekomangini.github.io](nekomangini.github.io)
-
 - ⚡ Fun fact **I like cats**
+
+[nekomangini.netlify.app](nekomangini.netlify.app) | [nekomangini.github.io](nekomangini.github.io)
 
 
 ## 🌐 Connect with me::
