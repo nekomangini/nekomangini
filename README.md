@@ -5,8 +5,8 @@
 - 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/)
 
 
-## 🌐 Connect with me::
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nekomangini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nekomangini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nekomangini) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekomangini) 
+<!-- ## 🌐 Connect with me::
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nekomangini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nekomangini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nekomangini) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekomangini) -->
 
 # 💻 Languages and Tools::
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
