@@ -1,12 +1,13 @@
-- 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
+<!-- - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
 - ⚡ Fun fact **I like cats**
 
-- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/)
+- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) -->
+[nekomangini.github.io](https://nekomangini.github.io/)
 
 
 <!-- ## 🌐 Connect with me::
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nekomangini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nekomangini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nekomangini) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekomangini) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nekomangini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nekomangini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nekomangini) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekomangini) 
 
 # 💻 Languages and Tools::
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -24,7 +25,8 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
 
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)   
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
+
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nekomangini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekomangini&theme=dark&langs_count=8&layout=compact&hide=html,css,cmake,vim%20script)](https://github.com/nekomangini)
