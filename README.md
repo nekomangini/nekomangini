@@ -3,7 +3,7 @@
 - ⚡ Fun fact **I like cats**
 
 - 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) -->
-[nekomangini.github.io](https://nekomangini.github.io/)
+[nekomangini.github.io](https://nekomangini.github.io/) | [nekomangini.netlify.app](https://nekomangini.netlify.app)
 
 
 <!-- ## 🌐 Connect with me::
