@@ -1,10 +1,10 @@
 <div align="center">
 <!-- - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
-- ⚡ Fun fact **I like cats**
+<!-- - ⚡ Fun fact **I like cats** -->
 
-- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) -->
-[nekomangini.github.io](https://nekomangini.github.io/) | [nekomangini.netlify.app](https://nekomangini.netlify.app)
+<!-- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) -->
+<p> [nekomangini.github.io](https://nekomangini.github.io/) | [nekomangini.netlify.app](https://nekomangini.netlify.app) </p>
 
 
 <!-- ## 🌐 Connect with me::
