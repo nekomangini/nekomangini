@@ -1,3 +1,4 @@
+<div align="center">
 <!-- - 🔭 I’m currently working on [nekovim](https://github.com/nekomangini/nekovim)
 
 - ⚡ Fun fact **I like cats**
@@ -51,3 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
