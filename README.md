@@ -3,8 +3,10 @@
 
 <!-- - ⚡ Fun fact **I like cats** -->
 
-<!-- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) -->
-<p> [nekomangini.github.io](https://nekomangini.github.io/) | [nekomangini.netlify.app](https://nekomangini.netlify.app) </p>
+<!-- 📝 Blog: [nekomangini.github.io](https://nekomangini.github.io/) 
+<p> [nekomangini.github.io](https://nekomangini.github.io/) | [nekomangini.netlify.app](https://nekomangini.netlify.app) </p> -->
+  <a href="https://nekomangini.github.io/" target="_blank">nekomangini.github.io</a> | 
+  <a href="https://nekomangini.netlify.app/" target="_blank">nekomangini.netlify.app</a>
 
 
 <!-- ## 🌐 Connect with me::
