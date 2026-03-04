@@ -8,10 +8,10 @@
 <div align="left" style="display: inline-block; width: 80%; max-width: 500px;">
 
 ### Currently Doing / Configs
-* **[Nekomangini Blog](https://nekomangini.github.io):** Documenting my descent into Linux madness, animation logs, and general chaos.
-* **[nekovim](https://github.com/nekomangini/nekovim):** A never-ending quest for the perfect Neovim setup.
 * **[dotfiles](https://github.com/nekomangini/neko-dotfiles):** Where I spend 90% of my time fixing things I just broke five minutes ago.
 * **[neknekvim](https://github.com/nekomangini/neknekvim):** Legacy dotfiles. Abandoned because Vimscript scared me; I've since sought refuge in Lua.
+* **[Nekomangini Blog](https://nekomangini.github.io):** Documenting my descent into Linux madness, animation logs, and general chaos.
+* **[nekovim](https://github.com/nekomangini/nekovim):** A never-ending quest for the perfect Neovim setup.
 * **[scripts](https://github.com/nekomangini/scripts):** Random automation scripts that work on my machine (usually).
 
 ### Neovim Themes
@@ -19,10 +19,10 @@
 * **[cheshirecat.nvim](https://github.com/nekomangini/cheshirecat.nvim):** A green theme inspired by **C.C.** from Code Geass. *I command you to use it.*
 
 ### Projects
-* **[nekopaper](https://github.com/nekomangini/nekopaper):** My curated personal wallpaper vault project.
 * **[blenderkeys](https://github.com/nekomangini/blenderkeys):** Because I can never remember if it's `G`, `R`, or `S`.
 * **[LuiLux-website](https://github.com/nekomangini/LuiLux-website):** Jewelry storefront built with Vanilla HTML, Bootstrap, and JS.
 * **[nekomangini-card](https://github.com/nekomangini/nekomangini-card):** A fun, Carrd-inspired personal landing page.
+* **[nekopaper](https://github.com/nekomangini/nekopaper):** My curated personal wallpaper vault project.
 
 </div>
 
