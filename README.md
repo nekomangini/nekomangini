@@ -12,6 +12,7 @@
 * **[nekovim](https://github.com/nekomangini/nekovim):** A never-ending quest for the perfect Neovim setup.
 * **[dotfiles](https://github.com/nekomangini/neko-dotfiles):** Where I spend 90% of my time fixing things I just broke five minutes ago.
 * **[neknekvim](https://github.com/nekomangini/neknekvim):** Legacy dotfiles. Abandoned because Vimscript scared me; I've since sought refuge in Lua.
+* **[scripts](https://github.com/nekomangini/scripts):** Random automation scripts that work on my machine (usually).
 
 ### Neovim Themes
 * **[bloodmoon.nvim](https://github.com/nekomangini/bloodmoon.nvim):** A dark, moody theme inspired by **Shalltear Bloodfallen** from Overlord. 
