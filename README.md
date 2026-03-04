@@ -32,6 +32,12 @@
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Helix](https://img.shields.io/badge/Helix-%2324292e.svg?style=for-the-badge&logo=helix&logoColor=white) ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
 
+---
+
+### Support Me
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nekomangini)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nekomangini)
+
 I use NixOS, so I spend more time configuring my OS than actually using it. 😂😂😂
 
 <!---
