@@ -41,6 +41,9 @@
 
 I use NixOS, so I spend more time configuring my OS than actually using it. 😂😂😂
 
+
+### 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekomangini&theme=dark&langs_count=8&layout=compact&hide=html,css,CMake,vim%20script,c,c%2B%2B)](https://github.com/nekomangini)
 <!---
 
 ### 📊 Top Languages
