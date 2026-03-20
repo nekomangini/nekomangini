@@ -16,7 +16,7 @@
 
 ### Neovim Themes
 * **[bloodmoon.nvim](https://github.com/nekomangini/bloodmoon.nvim):** A dark, moody theme inspired by **Shalltear Bloodfallen** from Overlord. 
-* **[cheshirecat.nvim](https://github.com/nekomangini/cheshirecat.nvim):** A green theme inspired by **C.C.** from Code Geass. *I command you to use it.*
+* **[cheshirecat.nvim](https://github.com/nekomangini/cheshirecat.nvim):** A green theme inspired by **C.C.** from Code Geass.
 
 ### Projects
 * **[blenderkeys](https://github.com/nekomangini/blenderkeys):** Because I can never remember if it's `G`, `R`, or `S`.
