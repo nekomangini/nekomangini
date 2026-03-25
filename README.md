@@ -23,6 +23,7 @@
 * **[LuiLux-website](https://github.com/nekomangini/LuiLux-website):** Jewelry storefront built with Vanilla HTML, Bootstrap, and JS.
 * **[nekomangini-card](https://github.com/nekomangini/nekomangini-card):** A fun, Carrd-inspired personal landing page.
 * **[nekopaper](https://github.com/nekomangini/nekopaper):** My curated personal wallpaper vault project.
+* **[nekpaper-mobile](https://github.com/nekomangini/nekopaper-mobile):** Mobile version of my wallpaper vault project built with Flutter.
 
 </div>
 
