@@ -8,7 +8,7 @@
 <div align="left" style="display: inline-block; width: 80%; max-width: 500px;">
 
 ### Currently Doing / Configs
-* **[dotfiles](https://github.com/nekomangini/neko-dotfiles):** Where I spend 90% of my time fixing things I just broke five minutes ago.
+* **[dotfiles](https://github.com/nekomangini/neko-dotfiles):** One repo, two ways to ruin my evening: desktop configs and a home server.
 * **[neknekvim](https://github.com/nekomangini/neknekvim):** Legacy dotfiles. Abandoned because Vimscript scared me; I've since sought refuge in Lua.
 * **[Nekomangini Blog](https://nekomangini.github.io):** Documenting my descent into Linux madness, animation logs, and general chaos.
 * **[nekovim](https://github.com/nekomangini/nekovim):** A never-ending quest for the perfect Neovim setup.
