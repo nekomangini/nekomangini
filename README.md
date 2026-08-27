@@ -36,10 +36,6 @@
 
 ---
 
-### Support Me
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nekomangini)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nekomangini)
-
 I use NixOS, so I spend more time configuring my OS than actually using it. 😂😂😂
 
 
